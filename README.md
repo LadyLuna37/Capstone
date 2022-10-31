@@ -1,7 +1,7 @@
 # Capstone
 
  # Summary:
-    This capstone project is to depict a small local coffee shop website
+    This Senior capstone project is to depict a small local coffee shop website. This is a continued work in progress.
 
  # Platforms Used:
    # Front-End:
